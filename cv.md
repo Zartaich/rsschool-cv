@@ -13,7 +13,7 @@ I recently started to get involved in web programming. I attend various web deve
 ### Skills
 
 - HTML5/CSS3
-- JavaScript/jQuery
+- JavaScript/jQuery/React
 - Git
 
 ### Code examples
